@@ -1,19 +1,17 @@
 # **FusionPad**
-Orpheuspad is a 4 key macropad with a rotary encoder, an OLED Display. It also has 2 WS2812B Leds, and uses QMK firmware
+FusionPad is a 2x4 key macropad with a rotary encoder it uses KMK firmware
 
-It serves as an example piece/reference for the hackpad YSWS, since it contains an implementation of every common part.
 
 Features:
-Dual layer acrylic case. looks looks awesome doesn't it??
-128x32 OLED Display
-EC11 Rotary encoder for whatever you want
-2 WS2812B RGB LEDs. One for underglow, and one that diffuses throughout the case
-4 Keys
-VIA support!
-CAD Model:
-Everything fits together using 5 M3 Bolts and heatset inserts. 4 for the case, one for the PCB. Also, it has a 5 degree tilt
+Two part 3d printer case
+EC11 Rotary encoder for volume (can be changed for zoom)
+8 Keys
 
-It has 3 separate printed pieces. The angle, the base where the PCB sits, and the top cover. it also has 2 acrylic plates. One to cover the electronics, the other to hold the switches
+
+
+# **CAD Model:**
+The case screws together using 4 M3 bolts and headset inserts. One on each corner
+
 
 Schematic
 
