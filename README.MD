@@ -18,12 +18,12 @@ Schematic
 
 
 # **PCB**
-Here's my PCB! It was made in KiCad.
+Here's my PCB! It was made in KiCad.\
 <img width="577" height="594" alt="Screenshot 2025-12-22 194543" src="https://github.com/user-attachments/assets/1087b6b5-3ec7-4861-a9c3-61a3bb5cc309" />
 
 
 # **PCB Schematic** 
-Messy I know
+Messy I know\
 <img width="1172" height="597" alt="Screenshot 2025-12-22 194750" src="https://github.com/user-attachments/assets/0d18bbef-8e4c-41c7-8330-b9255ceb2619" />
 
 I used MX_V2 for the keyswitch footprints.
@@ -44,4 +44,4 @@ Here should be everything you need to make this hackpad
 4x M3x16mm SHCS Bolts\
 1x EC11 Rotary Encoder\
 1x XIAO RP2040\
-1x Case (3d printed)\
+1x Case (3d printed)
