@@ -38,10 +38,10 @@ The 8 keys currently act as common key shortcuts I use in fusion.
 # **BOM:**
 Here should be everything you need to make this hackpad
 
-8x Cherry MX Switches
-8x DSA Keycaps
-4x M3x5x4 Heatset inserts
-4x M3x16mm SHCS Bolts
-1x EC11 Rotary Encoder
-1x XIAO RP2040
-1x Case (3d printed)
+8x Cherry MX Switches\
+8x DSA Keycaps\
+4x M3x5x4 Heatset inserts\
+4x M3x16mm SHCS Bolts\
+1x EC11 Rotary Encoder\
+1x XIAO RP2040\
+1x Case (3d printed)\
