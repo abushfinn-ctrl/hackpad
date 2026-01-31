@@ -1,5 +1,13 @@
+
+
+
+
+
+
 # **FusionPad**
-FusionPad is a 2x4 key macropad with a rotary encoder it uses KMK firmware
+FusionPad is a 2x4 key macropad with a rotary encoder it uses KMK firmware. I decided to make this because I recently switch from a logitech G502 with lots of buttons to a Bambu custom 3d printed mouse with no extra buttons. I then was able to have my fusions commands on my mouse so I decided to make a macropad specifically for Fusion. 
+
+
 
 
 Features:
@@ -7,7 +15,8 @@ Two part 3d printer case
 EC11 Rotary encoder for volume (can be changed for zoom)
 8 Keys
 
-
+# **How to build:**
+Once your PCB arrives you can start soldering all the componenet into the correct spots, then you plug the Hackpad in and add the firmware. Easy Peasy.
 
 # **CAD Model:**
 The case screws together using 4 M3 bolts and headset inserts. One on each corner
