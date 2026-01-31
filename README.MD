@@ -1,4 +1,4 @@
-
+![FusionPad](IMG_3159.jpg)
 # **FusionPad**
 FusionPad is a 2x4 key macropad with a rotary encoder it uses KMK firmware. I decided to make this because I recently switch from a logitech G502 with lots of buttons to a Bambu custom 3d printed mouse with no extra buttons. I then was able to have my fusions commands on my mouse so I decided to make a macropad specifically for Fusion. 
 
