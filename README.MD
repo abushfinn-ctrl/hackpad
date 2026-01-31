@@ -13,7 +13,7 @@ EC11 Rotary encoder for volume (can be changed for zoom)
 The case screws together using 4 M3 bolts and headset inserts. One on each corner
 
 
-Schematic
+
 <img width="1027" height="767" alt="Screenshot 2025-12-22 194414" src="https://github.com/user-attachments/assets/fbd49830-c499-45df-9233-187b1b07be77" />
 
 
